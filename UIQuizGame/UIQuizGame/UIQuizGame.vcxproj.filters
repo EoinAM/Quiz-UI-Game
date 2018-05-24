@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+<<<<<<< HEAD
+    <ClCompile Include="RadioButton.cpp" />
+=======
+>>>>>>> master
+    <ClCompile Include="src\Animation.cpp" />
+    <ClCompile Include="src\Author.cpp" />
+    <ClCompile Include="src\Button.cpp" />
+    <ClCompile Include="src\CheckBox.cpp" />
+    <ClCompile Include="src\Game.cpp" />
+    <ClCompile Include="src\Help.cpp" />
+    <ClCompile Include="src\KeyBoardInput.cpp" />
+    <ClCompile Include="src\Label.cpp" />
+    <ClCompile Include="src\Licence.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\MainMenu.cpp" />
+    <ClCompile Include="src\Options.cpp" />
+    <ClCompile Include="src\QuizSelect.cpp" />
+    <ClCompile Include="src\ScrollBar.cpp" />
+    <ClCompile Include="src\Splash.cpp" />
+    <ClCompile Include="src\Xbox360Controller.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="src\QuizScreen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AnimationEnums.h" />
+=======
+    <ClCompile Include="src\RadioButton.cpp" />
+    <ClCompile Include="src\HighScoreScreen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+>>>>>>> master
+    <ClInclude Include="include\Animation.h" />
+    <ClInclude Include="include\Author.h" />
+    <ClInclude Include="include\Button.h" />
+    <ClInclude Include="include\CheckBox.h" />
+    <ClInclude Include="include\Game.h" />
+    <ClInclude Include="include\Global.h" />
+    <ClInclude Include="include\Help.h" />
+    <ClInclude Include="include\KeyBoardInput.h" />
+    <ClInclude Include="include\Label.h" />
+    <ClInclude Include="include\Licence.h" />
+    <ClInclude Include="include\MainMenu.h" />
+    <ClInclude Include="include\Options.h" />
+    <ClInclude Include="include\QuizSelect.h" />
+    <ClInclude Include="include\ScrollBar.h" />
+    <ClInclude Include="include\Splash.h" />
+    <ClInclude Include="include\Xbox360Controller.h" />
+<<<<<<< HEAD
+    <ClInclude Include="RadioButton.h" />
+    <ClInclude Include="UIElements.h" />
+    <ClInclude Include="include\QuizScreen.h" />
+=======
+    <ClInclude Include="UIElements.h" />
+    <ClInclude Include="include\AnimationEnums.h" />
+    <ClInclude Include="include\RadioButton.h" />
+    <ClInclude Include="include\HighScoreScreen.h" />
+>>>>>>> master
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\temp\ButtonTexture-temp.png" />
+  </ItemGroup>
+</Project>

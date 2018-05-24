@@ -1,0 +1,3 @@
+IntRect
+width:620
+Height: 460
